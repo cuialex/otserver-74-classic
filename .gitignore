@@ -1,0 +1,13 @@
+compiler/vc17*
+compiler/theforgottenserver.pdb
+boost_filesystem-vc143-mt-x64-1_84.dll
+libmariadb.dll
+lua51.dll
+mpir.dll
+pugixml.dll
+theforgottenserver.exe
+theforgottenserver.pdb
+zlib1.dll
+config.lua
+/data - Copia
+/logs
